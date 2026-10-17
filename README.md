@@ -1,10 +1,10 @@
-🔊 Text-to-Speech Conversion System Using Python
+# 🔊 Text-to-Speech Conversion System Using Python
 
 A simple desktop application that converts written text into spoken audio using Python. The application provides a graphical user interface (GUI) where users can enter text, generate speech, and listen to the generated audio.
 
 Built using **Python, Tkinter, Google Text-to-Speech (gTTS), and pygame**, this project demonstrates GUI development, speech generation, and audio playback.
 
-📌 Table of Contents
+## 📌 Table of Contents
 
 * [About the Project](#-about-the-project)
 * [Features](#-features)
